@@ -1,0 +1,21 @@
+.laboratoria {
+    background-color: rgb(230, 163, 49);
+    display: block;
+    height: 200px;
+    width: 350px
+   
+   }
+   
+   .es{
+       background-color: black;
+       display: block;  
+       font-style:white;
+       height: 200px;
+       width: 350px;
+   }
+   .TRANS{
+       background-color: rgb(230, 167, 59);
+       display: block;
+       height: 200px;
+       width: 350px;
+   }
