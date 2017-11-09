@@ -1,0 +1,118 @@
+.laboratoria {
+ background-color: rgb(243, 186, 94);
+ display: block;
+ height: 100px;
+ padding-top: 10px;
+ padding-left: 10px;
+
+}
+
+.es{
+    background-color: black;
+    display: block;  
+    color:white;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.TRANS{
+    background-color: rgb(230, 167, 59);
+    display: block;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.laboratoria2 {
+    background-color: rgb(230, 163, 49);
+    display: block;
+    height: 200px;
+    width: 350px;
+    padding-top: 10px;
+    padding-left: 10px;
+   
+   }
+   
+   .es2{
+       background-color: black;
+       display: block;  
+      color:white;
+       height: 200px;
+       width: 350px;
+       padding-top: 10px;
+       padding-left: 10px;
+   }
+   .TRANS2{
+       background-color: rgb(230, 167, 59);
+       display: block;
+       height: 200px;
+       width: 350px;
+       padding-top: 10px;
+       padding-left: 10px;
+   }
+
+   .laboratoria3 {
+    background-color: rgb(230, 163, 49);
+    display: inline-block;
+    height: 190px;
+    width: 300px;
+    margin:10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+   
+   }
+   
+   .es3{
+       background-color: black;
+       display: inline-block; 
+       color:white;
+       height: 190px;
+       width: 300px;
+       margin: 10px;
+       margin-right: 10;
+       border: 20px;
+       padding-top: 10px;
+       padding-left: 10px;
+   }
+   .TRANS3{
+       background-color: rgb(230, 167, 59);
+       display: inline-block;
+       height: 190px;
+       width: 300px;
+       margin: 6px;
+       padding-top: 10px;
+       padding-left: 10px;
+   }
+  
+   .laboratoria4 {
+    background-color: rgb(230, 163, 49);
+    display: inline;
+    height: 190px;
+    width: 300px;
+    margin:10px;
+    padding:15px;
+    font-family: sans-serif;
+    
+   
+   }
+   
+   .es4{
+       background-color: black;
+       display: inline; 
+       color: white;
+       height: 190px;
+       width: 300px;
+       margin: 10px;
+      
+       border: 20px;
+       padding: 15px;
+   }
+   .TRANS4{
+       background-color: rgb(230, 167, 59);
+       display: inline;
+       height: 190px;
+       width: 300px;
+       margin: 10px;
+       padding: 15px;
+   }
