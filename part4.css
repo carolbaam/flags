@@ -1,0 +1,30 @@
+.laboratoria {
+    background-color: rgb(230, 163, 49);
+    display: inline;
+    height: 190px;
+    width: 300px;
+    margin:10px;
+    padding:15px;
+    
+   
+   }
+   
+   .es{
+       background-color: black;
+       display: inline; 
+       font-style:white;
+       height: 190px;
+       width: 300px;
+       margin: 10px;
+      
+       border: 20px;
+       padding: 15px;
+   }
+   .TRANS{
+       background-color: rgb(230, 167, 59);
+       display: inline;
+       height: 190px;
+       width: 300px;
+       margin: 10px;
+       padding: 15px;
+   }
