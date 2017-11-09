@@ -55,7 +55,7 @@
     background-color: rgb(230, 163, 49);
     display: inline-block;
     height: 190px;
-    width: 300px;
+    width: 200px;
     margin:10px;
     padding-top: 10px;
     padding-left: 10px;
@@ -68,7 +68,7 @@
        display: inline-block; 
        color:white;
        height: 190px;
-       width: 300px;
+       width: 200px;
        margin: 10px;
        margin-right: 10;
        border: 20px;
@@ -79,7 +79,7 @@
        background-color: rgb(230, 167, 59);
        display: inline-block;
        height: 190px;
-       width: 300px;
+       width: 200px;
        margin: 6px;
        padding-top: 10px;
        padding-left: 10px;
@@ -89,7 +89,7 @@
     background-color: rgb(230, 163, 49);
     display: inline;
     height: 190px;
-    width: 300px;
+    width: 250px;
     margin:10px;
     padding:15px;
     font-family: sans-serif;
@@ -102,7 +102,7 @@
        display: inline; 
        color: white;
        height: 190px;
-       width: 300px;
+       width: 250px;
        margin: 10px;
       
        border: 20px;
@@ -112,7 +112,7 @@
        background-color: rgb(230, 167, 59);
        display: inline;
        height: 190px;
-       width: 300px;
+       width: 250px;
        margin: 10px;
        padding: 15px;
    }
