@@ -5,6 +5,7 @@
     width: 300px;
     margin:10px;
     padding:15px;
+    font-family: sans-serif;
     
    
    }
@@ -12,7 +13,7 @@
    .es{
        background-color: black;
        display: inline; 
-       font-style:white;
+       color: white;
        height: 190px;
        width: 300px;
        margin: 10px;

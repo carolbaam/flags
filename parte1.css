@@ -1,18 +1,24 @@
 .laboratoria {
- background-color: rgb(230, 163, 49);
+ background-color: rgb(243, 186, 94);
  display: block;
- height: 150px;
+ height: 100px;
+ padding-top: 10px;
+ padding-left: 10px;
 
 }
 
 .es{
     background-color: black;
     display: block;  
-    font-style:white;
-    height: 150px;
+    color:white;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 .TRANS{
     background-color: rgb(230, 167, 59);
     display: block;
-    height: 150px;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
 }
